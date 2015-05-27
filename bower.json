@@ -1,0 +1,21 @@
+{
+  "name": "quickchat",
+  "version": "0.0.0",
+  "authors": [
+    "driplo"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "less.js": "~2.5.1"
+  }
+}
